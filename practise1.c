@@ -5,7 +5,6 @@ scanf("%d%d",&a,&b);
 
 printf("%d",a+b);
 
-
-return 1;
+return 0;
 
 }
